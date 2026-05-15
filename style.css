@@ -871,7 +871,7 @@ img {
 
 .stage-card.open .stage-card-body {
     padding: 2rem;
-    max-height: 800px;
+    max-height: 1500px;
 }
 
 .stage-grid {
@@ -899,8 +899,8 @@ img {
     line-height: 1.8;
 }
 
-.stage-relazione h4 {
-    font-size: 1rem;
+.stage-relazione h5 {
+    font-size: 0.5rem;
     margin-bottom: 0.5rem;
 }
 
